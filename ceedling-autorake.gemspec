@@ -12,10 +12,10 @@ Gem::Specification.new do |s|
   s.summary     = %q{Automated Testing for Ceedling Projects}
   s.description = %q{Ceedling provides a set of tools to deploy its guts in a folder or which can be required in a Rakefile. This makes that process more automatic.}
 
-  s.homepage = "//github.com/amullins83/ceedling-autorake"
+  s.homepage = "https://github.com/amullins83/ceedling-autorake"
 
   s.add_dependency "rake", ">= 0.8.7"
-  s.add_dependency "watch", "~0.1.0"
+  s.add_dependency "watch", ">= 0.1.0"
 
   # Files needed from submodules
   s.files         = []
