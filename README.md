@@ -12,6 +12,7 @@ Installation and Use
     cd {Your Project Root}/vendor
     git clone https://github.com/amullins83/ceedling-autorake
     cd ceedling-autorake/lib
+    bundle install
     ruby autorake.rb
 
 Configuration
